@@ -6,4 +6,4 @@ Developed by EchoHackCmd & support from DanCuber & bricker1462
 TODO
 - [ ] Enchant menu 30% complete - BETA
 - [X] AwayAura - BETA only
-- [X] Ascend Aura
+- [X] Ascend Aura - BETA, Idea from bricker1462
