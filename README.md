@@ -6,6 +6,6 @@ Developed by EchoHackCmd & support from DanCuber & bricker1462
 TODO
 - [ ] Enchant menu 50% complete - BETA
 - Current Enchants:
-Fire Aspect, Sharpness, Smite & Protection
+Fire Aspect, Knockback, Sharpness, Smite & Protection
 - [X] AwayAura - BETA only
 - [X] Ascend Aura - BETA, Idea from bricker1462
