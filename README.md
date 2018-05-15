@@ -4,8 +4,8 @@ A ModPE client for MCPE
 Developed by EchoHackCmd & support from DanCuber & bricker1462
 
 TODO
-- [ ] Enchant menu 50% complete - BETA
-- Current Enchants:
-Fire Aspect, Knockback, Sharpness, Smite & Protection
+- [ ] Enchant menu 100% complete - BETA
+- Added Enchantments:
+FIRE ASPECT, KNOCKBACK, SHARPNESS, SMITE, PROTECTION, LOOTING, THORNS, RESPIRATION, BLAST, PROTECTION, FIRE PROTECTION, AQUA INFINITY, DEPTH STRIDER, EFFICIENCY, FEATHER FALLING, FORTUNE, INFINITY, LUCK OF THE SEA, POWER, PROJECTILE PROTECTION, PUNCH, SILK TOUCH & UNBREAKING
 - [X] AwayAura - BETA only
 - [X] Ascend Aura - BETA, Idea from bricker1462
