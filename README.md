@@ -3,4 +3,5 @@ A ModPE client for MCPE
 
 Developed by EchoHackCmd
 
-Version: 4.2
+Version: 5.0
+Build: 5
