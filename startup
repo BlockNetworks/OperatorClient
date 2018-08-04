@@ -1,4 +1,0 @@
-print("OC: Welcome to OperatorClient!");
-print("OC: Your using Version: " +version);
-print("OC: Checking for updates...");
-checkUpdate();
