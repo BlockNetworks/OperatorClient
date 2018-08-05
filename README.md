@@ -1,7 +1,7 @@
 # OperatorClient
-A ModPE client for MCPE
+A "hack client" for Blocklauncher
 
 Developed by EchoHackCmd
 
 Version: 5.0
-Build: 5
+Build: 7
