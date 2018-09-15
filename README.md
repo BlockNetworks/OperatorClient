@@ -4,4 +4,4 @@ A "hack client" for Blocklauncher
 Developed by EchoHackCmd
 
 Version: 5.0
-Build: 18
+Build: 19
