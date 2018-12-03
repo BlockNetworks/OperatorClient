@@ -1,1 +1,10 @@
-Added a catch err on Kill Switch
+AntiKnockBack
+Long Jump
+Scaffold
+TP Y axis for TPAura (Toggle)
+Modified aimbot function so aimbot will always be active even if a friend goes near you (Huge improvement)
+Added tick delay seekbars on Customisable Spam, Random Spam and tell spam to bypass anti cheats
+Removed all 8 exit menu buttons and made 1 that syncs with all menus using if statements
+Added SeekBars for Customisable Spam, Random Spam and Spam Tell to add delays for bypassing Anti-Spam
+Added Themes
+Added Specific Aim
