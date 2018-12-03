@@ -3,4 +3,4 @@ A "hack client" for Blocklauncher
 
 Developed by EchoHackCmd
 
-Version: 5.4.3
+Version: 5.4.4
